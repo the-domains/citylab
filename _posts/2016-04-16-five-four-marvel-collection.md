@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T16:50:05.697Z'
+datePublished: '2016-08-17T16:53:52.820Z'
 sourcePath: _posts/2016-04-16-five-four-marvel-collection.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/style/five-four-marvel-collection'
@@ -20,7 +20,8 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-17T16:50:05.019Z'
+via: {}
+dateModified: '2016-08-17T16:53:52.329Z'
 title: Five Four + Marvel Collection
 app_links: []
 publisher:
@@ -28,18 +29,14 @@ publisher:
   domain: www.coolhunting.com
   url: 'http://www.coolhunting.com'
   favicon: 'http://assets.coolhunting.com/favicon.ico'
-description: >-
-  Some comic book apparel can end up juvenile, but the new Five Four
-  collaboration with Marvel is anything but. In celebration of the impending
-  release of Avengers: Age of Ultron, the Five Four subscription menswear
-  service finds subtlety in the generally loud graphic medium by using Marvel's
-  famous roster of superheroes to inspire its April capsule.
+description: 'https://vimeo.com/156689220'
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Five Four + Marvel Collection</h1><p>Some comic book apparel can end up juvenile, but the new Five Four collaboration with Marvel is anything but. In celebration of the impending release of Avengers: Age of Ultron, the Five Four subscription menswear service finds subtlety in the generally loud graphic medium by using Marvel's famous roster of superheroes to inspire its April capsule.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c00f82bc7a96b03780b683692320bb03f3b031f2.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/098cf456-ef41-4575-be08-dae04816f3b1.jpg)
+
+https://vimeo.com/156689220
