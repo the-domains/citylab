@@ -1,0 +1,14 @@
+layout_spectrum: 0.7475362729746848
+typography_spectrum: 0.9762303670868278
+color:
+  brandStrength: 0.5749748756643385
+  lightness: 0.9133252187166363
+  saturation: 0.22437951271422207
+  rhythmicContrast: 0.5564567595720291
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Citylab
